@@ -1,3 +1,5 @@
+
+
 # sky-remote-web
 
 Web interface for sending remote control commands to a Sky TV box.
@@ -13,3 +15,4 @@ Ensure the text box at the top of the page contains the IP address of your Sky b
 Nothing more to it.
 
 Sky remote skin by DJBenson.
+All credit to https://github.com/dalhundal/sky-remote-web 
